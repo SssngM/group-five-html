@@ -2,7 +2,7 @@ body {
   margin: 5vh 10vw 12vw;
 }
 
-#activities {
+.activities {
   display: flex;
   gap: 10vw;
 }
