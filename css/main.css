@@ -1,0 +1,16 @@
+body {
+  margin: 5vh 10vw 12vw;
+}
+
+#activities {
+  display: flex;
+  gap: 10vw;
+}
+
+.user-id {
+  max-width: 50vw;
+}
+
+button {
+  max-width: 80vw;
+}
